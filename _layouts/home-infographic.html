@@ -3,21 +3,17 @@
 layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.objectid != nil' -%}
+
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-12">
 
     {% include index/description.html %}
 
-    Where there was previously sharp, dangerous paper and messy ink, I’ve transformed the holiday card to this static generated site that you can view on any cold, lifeless screen you have within arm’s reach. Where there were previously cozy drawings of snow covered cottages, <ital>now</ital> there is <b>snake</b>:
+    Where there was previously sharp, dangerous paper and messy ink, I’ve transformed the holiday card to this static generated site that you can view on any cold, lifeless screen you have within arm’s reach. 
     <br>
     <br>
     {% include feature/alert.html text="But Why Me? And Why Now??" color="success" align="center" %}
-
+    <br>
+    <br>
     Good questions. I can tell you are on edge, and justifiably so. 
   </div>
-
-    <div class="col-md-4">
-
-      {% include feature/snake.html %}
-
-    </div>
