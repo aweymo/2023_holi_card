@@ -18,7 +18,7 @@ credits: false
 Great to see you both earlier this year! Thanks so much for your hospitality and excellent food.
 </div>
 <div class="p4">
-Although the holiday season is a time of celebration and gratitude for what you have, it’s also a time to acknowledge and process loss. I am, of course, talking about <b>Looff’s Lite-A-Line</b>, that I visited when I was in town, not knowing that it would shutter after 80 years soon after. Though you both never had a chance to visit, <b>take solace in this:</b> it’s one of those weird, old places (like the Chowder Barge) that I’m very drawn towards but you both would probably find <b>vaguely dingy and sad </b>(which they are and were). 
+Although the holiday season is a time of celebration and gratitude for what you have, it’s also a time to acknowledge and process loss. I am, of course, talking about  <a href= "https://www.atlasobscura.com/places/looff-s-lite-a-line"><b>Looff’s Lite-A-Line</b></a>, that I visited when I was in town, not knowing that it would shutter soon after, drawing it's 80-year legacy as a somewhat legal gambling institution to a close. Though you both never had a chance to visit, <b>take solace in this:</b> it’s one of those weird, old places (like the Chowder Barge) that I’m very drawn towards but you both would probably find <b>vaguely dingy and sad </b>(which they are and were). 
 </div>
 
 ## Your Holiday Dish
