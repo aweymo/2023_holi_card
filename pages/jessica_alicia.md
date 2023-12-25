@@ -14,4 +14,22 @@ credits: false
 
 ## Christmas Thoughts
 
+<div class="p4">
+Great to see you both earlier this year! Thanks so much for your hospitality and excellent food.
+</div>
+<div class="p4">
+Although the holiday season is a time of celebration and gratitude for what you have, it’s also a time to acknowledge and process loss. I am, of course, talking about <b>Looff’s Lite-A-Line</b>, that I visited when I was in town, not knowing that it would shutter after 80 years soon after. Though you both never had a chance to visit, <b>take solace in this:</b> it’s one of those weird, old places (like the Chowder Barge) that I’m very drawn towards but you both would probably find <b>vaguely dingy and sad </b>(which they are and were). 
+</div>
+
 ## Your Holiday Dish
+
+<div class="p4">
+<b>Buñuelo!</b> 
+</div>
+<br>
+{% include feature/image.html objectid="objects/bunuelo.jpeg" caption="Ancient, Worldly Donuts" width="75" %}
+<br>
+<div class="p4">
+A slight regional variation on your holiday tradition. A wheat based yeast fritter usually containing anise but with a smattering of international interpretations including islands off the coast of southern Spain incorporating sweet potato, cheese and dried figs. The name derives from Germanic Goth <em>buggjō</em>, meaning <b>“lump,”</b> which derives from <em>*bʰenǵʰ</em>, meaning <b>“thick, dense, fat”</b>. Perfect marketing. I’m fully on board. 
+</div>
+<br>

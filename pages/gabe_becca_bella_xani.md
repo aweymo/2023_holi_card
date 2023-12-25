@@ -15,7 +15,7 @@ credits: false
 ## Christmas Thoughts
 
 <div class="p4">
-It was lovely to see you all last Christmas and I hope you are all having a wonderful season in Delft! I especially enjoyed visiting the Folk Art Museum with the Japanese Folklore exhibit and spotting goths with you both, Bella and Xani. Have you seen the new Miyazaki? There were certainly parts of it where, if I were 14 or younger, I probably would have run out of the theater. 
+It was lovely to see you all last Christmas and I hope you are all having a wonderful season in Delft! I especially enjoyed visiting the Folk Art Museum with the Japanese Folklore exhibit and <b>spotting goths</b> with you both, Bella and Xani. Have you seen the new Miyazaki? There were certainly parts of it where, if I were 14 or younger, I probably would have run out of the theater. 
 </div>
 <div class="p4">
 I’m going to see if I can visit sometime this summer now that I have a job that makes traveling a little easier. 
@@ -24,18 +24,18 @@ I’m going to see if I can visit sometime this summer now that I have a job tha
 ## Your Holiday Dish
 
 <div class="p4">
-Your holiday dish has a very special origin: a disagreement that I had with your father. 
+Your holiday dish has a very special origin: <b>a disagreement that I had with your father.</b> 
 </div>
 <br>
-{% include feature/image.html objectid="objects/kfc_japan.png" caption="A Universal Feeling" width="50" %}
+{% include feature/image.html objectid="objects/kfc_japan.png" caption="A Universal Feeling" width="75" %}
 <br>
 <div class="p4">
-There was some car trip we were on where your dad claimed Kentucky Fried Chicken wasn’t a popular food chain in Japan. After some obnoxious online searching, I found that not only is KFC incredibly popular, but, since the 1970s, the chain has built an annual tradition of fried chicken "party barrels" that is more closely identified with the Christmas holiday than the Christian religion (only 1.5 representation in Japan).  
+There was some car trip we were on where your dad claimed <b>Kentucky Fried Chicken</b> wasn’t a popular food chain in Japan. After some obnoxious online searching, I found that not only is KFC incredibly popular, but, since the 1970s, the chain has built an annual tradition of fried chicken <b>"party barrels"</b> that is more closely identified with the Christmas holiday than the Christian religion (only 1.5 representation in Japan).  
 </div>
 <br>
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=-nt50wm-3hM" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=-nt50wm-3hM" width="75" %}
 <br>
 <div class="p4">
-It’s kind of like Colonel Sanders advertised himself as a “Southern America Man” mascot in North America and rebranded simply as “America Man” mascot in Japan. Can’t help but admire it. 
+It’s kind of like Colonel Sanders advertised himself as the “Southern United States Man” mascot in North America and rebranded simply as the <b>"United States Man”</b> mascot in Japan. Can’t help but admire it. 
 </div>
 <br>
